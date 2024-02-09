@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Katagaria
 - 👀 I’m interested in learning front end development.
-- 🌱 I’m currently learning HTML5, CCS, Javascript and Python.
+- 🌱 I’m currently learning Python and SQL.
 
 <!---
 Katagaria/Katagaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
