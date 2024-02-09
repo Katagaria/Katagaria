@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Katagaria
-- 👀 I’m interested in learning front end development.
+- 👀 I’m interested in learning front and back end development.
 - 🌱 I’m currently learning Python and SQL.
 
 <!---
